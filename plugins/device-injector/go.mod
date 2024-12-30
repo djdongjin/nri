@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/containerd/nri v0.6.1
 	github.com/sirupsen/logrus v1.9.3
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	sigs.k8s.io/yaml v1.3.0
 )
 
