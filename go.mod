@@ -12,7 +12,7 @@ require (
 	github.com/opencontainers/runtime-tools v0.9.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.8.4
-	github.com/tetratelabs/wazero v1.8.2-0.20241030035603-dc08732e57d5
+	github.com/tetratelabs/wazero v1.8.2
 	golang.org/x/sys v0.21.0
 	google.golang.org/grpc v1.57.1
 	google.golang.org/protobuf v1.34.1
