@@ -3,7 +3,7 @@ module github.com/containerd/nri/examples
 go 1.21
 
 require (
-	github.com/containerd/cgroups v1.0.3
+	github.com/containerd/cgroups v1.1.0
 	github.com/containerd/nri v0.1.0
 	github.com/opencontainers/runtime-spec v1.1.0
 	github.com/sirupsen/logrus v1.9.3
