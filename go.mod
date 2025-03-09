@@ -11,7 +11,7 @@ require (
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220825212826-86290f6a00fb
 	github.com/opencontainers/runtime-tools v0.9.0
 	github.com/sirupsen/logrus v1.9.3
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	github.com/tetratelabs/wazero v1.8.2-0.20241030035603-dc08732e57d5
 	golang.org/x/sys v0.21.0
 	google.golang.org/grpc v1.57.1
