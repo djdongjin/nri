@@ -1,6 +1,6 @@
 module github.com/containerd/nri/examples
 
-go 1.18
+go 1.21
 
 require (
 	github.com/containerd/cgroups v1.0.3
